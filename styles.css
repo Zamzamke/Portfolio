@@ -1,0 +1,7 @@
+body{background-color: #daf0f0;} 
+    hr{
+        border-style: dashed solid;
+        width: 20px;
+        color: grey;
+        border-spacing: 1rem;
+     }
